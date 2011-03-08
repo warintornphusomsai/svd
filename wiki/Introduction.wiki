@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Jacobi-based SVD algorithm in CUDA.
 #labels cuda,svd,gpu
 
 = Introduction =
